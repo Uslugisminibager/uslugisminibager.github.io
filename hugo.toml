@@ -21,7 +21,7 @@ darkTheme = "forest"
 
 author = "Про Диг"
 description = "Услуги с мини-багер и самосвал"
-avatar = "img/avatar.png"
+avatar = "./images/avatar.png"
 headerTitle = "Про Диг"
 # motto = ""
 
