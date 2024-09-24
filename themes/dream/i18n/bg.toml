@@ -1,0 +1,57 @@
+note = "Забележка"
+tip = "Съвет"
+important = "Важно"
+warning = "Предупреждение"
+caution = "Внимание"
+
+[home]
+other = "Начало"
+
+[backToHome]
+other = "Обратно към началото"
+
+[flip]
+other = "Натисни ме!"
+
+[about]
+other = "За нас / Статии"
+
+[archives]
+other = "Услуги"
+
+[allTags]
+other = "Всички етикети"
+
+[tag]
+one = "1 етикет"
+other = "{{ .Count }} етикета"
+
+[allCategories]
+other = "Категории"
+
+[category]
+one = "1 категория"
+other = "{{ .Count }} категории"
+
+[article]
+one = "1 статия"
+other = "{{ .Count }} статии"
+
+[socialLinks]
+other = "Социални връзки"
+
+[minuteRead]
+one = " минута четене"
+other = " минути четене"
+
+[updateAt]
+other = "Обновено: "
+
+[prevPage]
+other = "Предишна страница"
+
+[nextPage]
+other = "Следваща страница"
+
+[search]
+other = "Търсене"
