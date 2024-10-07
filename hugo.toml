@@ -1,7 +1,7 @@
 baseurl = "https://example.com"
 defaultContentLanguage = "bg"
 languageCode = "en"
-title = "Про Диг"
+title = "Услуги с мини багер Ботевград"
 theme = "dream"
 
 # [services]
@@ -19,10 +19,10 @@ darkTheme = "forest"
 # backgroundImage = "me/background.jpg"
 # backgroundImageDark = ""
 
-author = "Про Диг"
+author = "Услуги с мини багер Ботевград"
 description = "Услуги с мини-багер и самосвал"
 avatar = "avatar.png"
-headerTitle = "Про Диг"
+headerTitle = "Услуги с мини багер Ботевград"
 # motto = ""
 
 # footerBottomText = ""
